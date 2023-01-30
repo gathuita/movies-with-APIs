@@ -1,0 +1,33 @@
+body
+{
+    width: 90%;
+}
+.movies
+{
+    padding: 5%;
+}
+.movies li
+{
+    list-style-type: none;
+    width: 20%;
+    border: solid black;
+    object-fit: cover;
+    display: inline-block;
+    margin: 5% auto;
+    margin-right: 100px;
+    border-radius: 5%;
+}
+.movies img 
+{
+    object-fit: cover;
+    width:  100%;
+    height: 200px;
+    border-radius: 5%;
+
+}
+.movies h2 
+{
+    text-align: center;
+    text-decoration: green;
+    
+}
